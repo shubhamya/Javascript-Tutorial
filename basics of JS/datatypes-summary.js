@@ -18,6 +18,7 @@ const bigNumber = 232452346376n //(not used much)
 // Array, Objects, functions (type of value of non primitives are object)
 
 const heros = ["shaktiman", "naagraj", "doga"]
+
 let myObj = {
     name: "shubham",
     age: 26,
@@ -26,7 +27,6 @@ let myObj = {
 const myFunction = function(){
     console.log("hello World");
 }
-
 
 
 
