@@ -23,7 +23,7 @@ console.log(newStringOne);
 
 const url = "https://shubham.com/shubham%20yadav"
 
-console.log(url.replace('%20', '-'))
+console.log(url.replace('%20', '-'));
 
 console.log(url.includes('shubham'));
 
